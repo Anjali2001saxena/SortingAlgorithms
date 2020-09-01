@@ -7,3 +7,6 @@ Let's do it together, so feel free to contribute!
 [Bubble Sort](BubbleSort.java) <br/>
 [Insertion Sort](InsertionSort.java) <br/>
 [Selection Sort](SelectionSort.java) <br/>
+[Bucket Sort](BucketSort.java) <br/>
+[Count Sort](CountSort.java) <br/>
+[Radix Sort](RadixSort.java) <br/>
