@@ -10,3 +10,4 @@ Let's do it together, so feel free to contribute!
 [Bucket Sort](BucketSort.java) <br/>
 [Count Sort](CountSort.java) <br/>
 [Radix Sort](RadixSort.java) <br/>
+[Shell Sort](ShellSort.java) <br/>
