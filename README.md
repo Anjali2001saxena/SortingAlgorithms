@@ -11,3 +11,5 @@ Let's do it together, so feel free to contribute!
 [Count Sort](CountSort.java) <br/>
 [Radix Sort](RadixSort.java) <br/>
 [Shell Sort](ShellSort.java) <br/>
+[Quick Sort](QuickSort.java) <br/>
+[Merge Sort](MergeSort.java) <br/>
